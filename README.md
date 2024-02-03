@@ -1,6 +1,7 @@
 # SimpleCalculatorPython
 A basic calculator implemented in Python using the Visual C code. This simple yet functional calculator can perform essential arithmetic operations such as addition, subtraction, multiplication, and division. 
- Features
+ 
+Features
  - Addition
  - Subtraction
  - Multiplication
